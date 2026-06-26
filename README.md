@@ -1,3 +1,11 @@
+<!--
+  ========================================================================
+  SHINCHAN-THEMED MODERN GITHUB PROFILE README
+  ========================================================================
+  Name: Rudra Miyani (Chocobi Dev)
+  Username: Rsmiyani
+  ========================================================================
+-->
 
 <p align="center">
   <!-- Eye-catching Shinchan storm GIF banner -->
@@ -71,10 +79,10 @@
 
 <img align="right" alt="Shinchan Writing" width="160" src="https://media.giphy.com/media/l0HlRnAWXxn0MhHKg/giphy.gif" style="border-radius: 8px; margin-left: 15px;" />
 
-*   💍 **Rishtawaala** — *Trust-Centric Matrimonial & Matchmaking Platform*
+*   💍 [Rishtawaala](https://rishtawaala.com/) — *Trust-Centric Matrimonial & Matchmaking Platform*
     *   Features real-time matchmaking, Socket.IO live chat, DigiLocker API integration, and live face verification (TensorFlow.js + face-api.js).
     *   *Stack:* Next.js, Node.js, Express, PostgreSQL, Redis, Socket.IO, face-api.js, TensorFlow.js
-*   🧹 **Sevikaa.com** — *Real-Time On-Demand House Help Booking Platform*
+*   🧹 [Sevikaa.com](https://sevikaa-com.vercel.app/) — *Real-Time On-Demand House Help Booking Platform*
     *   Features live helper tracking via Leaflet maps & Supabase broadcast channels, helper reliability scores, and automated billing via Brevo API.
     *   *Stack:* Next.js, React, TypeScript, Supabase, Leaflet, Brevo SMTP API
 *   🥐 **BakeBridge** — *Multi-Vendor Bakery E-Commerce & Geolocation Platform*
