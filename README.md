@@ -1,16 +1,3 @@
-<!--
-  ========================================================================
-  SHINCHAN-THEMED MODERN GITHUB PROFILE README
-  ========================================================================
-  INSTRUCTIONS:
-  1. Replace all occurrences of "[Your Name]" with your real name.
-  2. Replace all occurrences of "chocobidev" with your actual GitHub username.
-  3. Replace emails, social links (Discord, Telegram, etc.) with your own.
-  4. The header banner uses a local image: assets/shinchan-banner.png. Ensure you upload it to your repository.
-  5. If you prefer an animated GIF banner: download your favorite Shinchan GIF, save it as assets/shinchan-banner.gif, and update the banner path below.
-  ========================================================================
--->
-
 <p align="center">
   <!-- Dynamic custom generated banner -->
   <img src="assets/shinchan-banner.png" width="100%" alt="Shinchan Coder Banner" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
@@ -21,7 +8,7 @@
 
 <p align="center">
   <!-- Chocobi Green & Shinchan Red styled view counter -->
-  <img src="https://komarev.com/ghpvc/?username=chocobidev&label=Chocobi%20Eaten&color=e53935&style=flat-square" alt="Profile Views" style="height: 25px; border-radius: 4px;"/>
+  <img src="https://komarev.com/ghpvc/?username=Rsmiyani&label=Chocobi%20Eaten&color=e53935&style=flat-square" alt="Profile Views" style="height: 25px; border-radius: 4px;"/>
 </p>
 
 <hr style="border: 1px solid #4caf50;" />
@@ -45,11 +32,11 @@
 
 <!-- Featured Projects using customized Shinchan Red/Yellow/Chocobi Green Theme -->
 <p align="left">
-  <a href="https://github.com/chocobidev/PixEdge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chocobidev&repo=PixEdge&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="PixEdge Card" />
+  <a href="https://github.com/Rsmiyani/PixEdge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmiyani&repo=PixEdge&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="PixEdge Card" />
   </a>
-  <a href="https://github.com/chocobidev/EDGE_RENAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chocobidev&repo=EDGE_RENAME&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="EDGE RENAME Card" />
+  <a href="https://github.com/Rsmiyani/EDGE_RENAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmiyani&repo=EDGE_RENAME&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="EDGE RENAME Card" />
   </a>
 </p>
 
@@ -163,13 +150,13 @@
 
 <div align="center">
   <!-- GitHub Stats Card (Customized Dark Mode theme with Shinchan Red/Yellow/Chocobi Green) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=chocobidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&locale=en&hide_border=false" height="160" alt="GitHub Stats Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Rsmiyani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&locale=en&hide_border=false" height="160" alt="GitHub Stats Graph" />
   <img width="8" />
   <!-- Top Languages Card (Customized Dark Mode theme) -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=chocobidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&hide_border=false" height="160" alt="Languages Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Rsmiyani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&hide_border=false" height="160" alt="Languages Graph" />
   <img width="8" />
   <!-- GitHub Streak Card (Customized Streak theme) -->
-  <img src="https://streak-stats.demolab.com?user=chocobidev&locale=en&mode=daily&theme=dark&background=0d1117&title=e53935&ring=ffd54f&fire=e53935&currStreakNum=ffd54f&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=4caf50&hide_border=false&border_radius=5" height="160" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com?user=Rsmiyani&locale=en&mode=daily&theme=dark&background=0d1117&title=e53935&ring=ffd54f&fire=e53935&currStreakNum=ffd54f&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=4caf50&hide_border=false&border_radius=5" height="160" alt="Streak Graph" />
 </div>
 
 <br/>
