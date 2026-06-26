@@ -1,11 +1,15 @@
 
 <p align="center">
-  <!-- Dynamic custom generated banner -->
-  <img src="assets/shinchan-banner.png" width="650" alt="Shinchan Coder Banner" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+  <!-- Eye-catching Shinchan storm GIF banner -->
+  <img src="assets/209559.gif" width="480" alt="Shinchan Coder Banner" style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.3); border: 2px solid #ffd54f;"/>
 </p>
 
 <h1 align="center">Hey there, standard humans! 👋 I'm Chocobi Dev</h1>
 <h3 align="center">🎒 Kasukabe Defense Group Lead | Full-Stack Developer — Next.js, Supabase & AI-Augmented Engineering 💻✨</h3>
+
+<p align="center">
+  <em>⛈️ "When the production storms hit and the bugs rain down, a true developer doesn't wait for the storm to pass—they hold their ground and learn to ship in the rain."</em>
+</p>
 
 <p align="center">
   <!-- Chocobi Green & Shinchan Red styled view counter and Portfolio Button -->
