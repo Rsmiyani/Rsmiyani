@@ -1,3 +1,16 @@
+<!--
+  ========================================================================
+  SHINCHAN-THEMED MODERN GITHUB PROFILE README
+  ========================================================================
+  INSTRUCTIONS:
+  1. Replace all occurrences of "[Your Name]" with your real name.
+  2. Replace all occurrences of "Rsmiyani" with your actual GitHub username.
+  3. Replace emails, social links (Discord, Telegram, etc.) with your own.
+  4. The header banner uses a local image: assets/shinchan-banner.png. Ensure you upload it to your repository.
+  5. If you prefer an animated GIF banner: download your favorite Shinchan GIF, save it as assets/shinchan-banner.gif, and update the banner path below.
+  ========================================================================
+-->
+
 <p align="center">
   <!-- Dynamic custom generated banner -->
   <img src="assets/shinchan-banner.png" width="100%" alt="Shinchan Coder Banner" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
@@ -32,11 +45,11 @@
 
 <!-- Featured Projects using customized Shinchan Red/Yellow/Chocobi Green Theme -->
 <p align="left">
-  <a href="https://github.com/Rsmiyani/PixEdge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmiyani&repo=PixEdge&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="PixEdge Card" />
+  <a href="https://github.com/Rsmiyani/GSK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmiyani&repo=GSK&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="GSK Card" />
   </a>
-  <a href="https://github.com/Rsmiyani/EDGE_RENAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmiyani&repo=EDGE_RENAME&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="EDGE RENAME Card" />
+  <a href="https://github.com/Rsmiyani/3D_Interactive_Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmiyani&repo=3D_Interactive_Portfolio&bg_color=0d1117&title_color=e53935&icon_color=ffd54f&text_color=c9d1d9&border_color=4caf50&show_owner=true" alt="3D Interactive Portfolio Card" />
   </a>
 </p>
 
@@ -163,3 +176,4 @@
 <p align="center">
   <i>"I'm Shinnosuke Nohara, a developer who loves Action Kamen, Chocobis, and clean code! Wahahaha!" 🎒✌️</i>
 </p>
+![alt text](image.png)
