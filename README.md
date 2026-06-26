@@ -1,19 +1,6 @@
-<!--
-  ========================================================================
-  SHINCHAN-THEMED MODERN GITHUB PROFILE README
-  ========================================================================
-  INSTRUCTIONS:
-  1. Replace all occurrences of "[Your Name]" with your real name.
-  2. Replace all occurrences of "Rsmiyani" with your actual GitHub username.
-  3. Replace emails, social links (Discord, Telegram, etc.) with your own.
-  4. The header banner uses a local image: assets/shinchan-banner.png. Ensure you upload it to your repository.
-  5. If you prefer an animated GIF banner: download your favorite Shinchan GIF, save it as assets/shinchan-banner.gif, and update the banner path below.
-  ========================================================================
--->
-
 <p align="center">
   <!-- Dynamic custom generated banner -->
-  <img src="assets/shinchan-banner.png" width="100%" alt="Shinchan Coder Banner" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
+  <img src="assets/shinchan-banner.png" width="650" alt="Shinchan Coder Banner" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
 </p>
 
 <h1 align="center">Hey there, standard humans! 👋 I'm Chocobi Dev</h1>
