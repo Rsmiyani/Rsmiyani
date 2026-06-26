@@ -123,13 +123,13 @@
   <img width="8" />
   <img src="https://cdn.simpleicons.org/leaflet" height="40" alt="leaflet" title="Leaflet Maps"/>
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-logo.svg" height="40" alt="chartjs" title="Chart.js"/>
+  <img src="https://cdn.simpleicons.org/chartdotjs" height="40" alt="chartjs" title="Chart.js"/>
   
   <!-- Backend & Database -->
   <h4>⚙️ Backend, Databases & BaaS</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="NodeJS"/>
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" title="ExpressJS"/>
+  <img src="https://cdn.simpleicons.org/express/white" height="40" alt="express" title="ExpressJS"/>
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" title="Laravel"/>
   <img width="8" />
