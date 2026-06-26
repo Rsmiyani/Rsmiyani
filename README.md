@@ -1,3 +1,4 @@
+
 <p align="center">
   <!-- Dynamic custom generated banner -->
   <img src="assets/shinchan-banner.png" width="650" alt="Shinchan Coder Banner" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"/>
@@ -7,8 +8,11 @@
 <h3 align="center">🎒 Kasukabe Defense Group Lead | Full-Stack Developer — Next.js, Supabase & AI-Augmented Engineering 💻✨</h3>
 
 <p align="center">
-  <!-- Chocobi Green & Shinchan Red styled view counter -->
+  <!-- Chocobi Green & Shinchan Red styled view counter and Portfolio Button -->
   <img src="https://komarev.com/ghpvc/?username=Rsmiyani&label=Chocobi%20Eaten&color=e53935&style=flat-square" alt="Profile Views" style="height: 25px; border-radius: 4px;"/>
+  <a href="https://rudramiyani.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4caf50?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" style="height: 25px; border-radius: 4px; margin-left: 8px;"/>
+  </a>
 </p>
 
 <hr style="border: 1px solid #4caf50;" />
