@@ -1,11 +1,4 @@
-<!--
-  ========================================================================
-  SHINCHAN-THEMED MODERN GITHUB PROFILE README
-  ========================================================================
-  Name: Rudra Miyani (Chocobi Dev)
-  Username: Rsmiyani
-  ========================================================================
--->
+
 
 <p align="center">
   <!-- Eye-catching Shinchan storm GIF banner -->
